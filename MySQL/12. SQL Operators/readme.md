@@ -270,8 +270,6 @@ This query filters employees who work in the 'IT' department and have salaries b
 |--------------|------------------------------------------------|--------------------------------------------------|
 | `=`          | Equal to                                        | `Salary = 50000`                                 |
 | `<>`, `!=`   | Not equal to                                    | `Salary <> 50000`                               
-
- |
 | `>`          | Greater than                                    | `Salary > 50000`                                 |
 | `>=`         | Greater than or equal to                        | `Salary >= 50000`                                |
 | `<`          | Less than                                       | `Salary < 50000`                                 |
