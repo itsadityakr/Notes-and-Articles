@@ -5,7 +5,6 @@ class J10_FundamentalsDemo {
     public int add(int a, int b) {
         return a + b;
     }
-
     // 2. Method Overloading
     public void display(String message) {
         System.out.println("Message: " + message);
